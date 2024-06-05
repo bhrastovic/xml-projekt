@@ -1,0 +1,103 @@
+[
+    {
+        "club": "GNK Dinamo Zagreb",
+        "badge": "../slike/grbovi/dinamo.png",
+        "position": "1",
+        "matchesPlayed": "36",
+        "goalDifference": "+37",
+        "points": "82",
+        "win": "25",
+        "draw": "7",
+        "lose": "4"
+    }, {
+        "club": "HNK Rijeka",
+        "badge": "../slike/grbovi/rijeka.png",
+        "position": "2",
+        "matchesPlayed": "36",
+        "goalDifference": "+39",
+        "points": "74",
+        "win": "23",
+        "draw": "5",
+        "lose": "8"
+    }, {
+        "club": "HNK Hajduk Split",
+        "badge": "../slike/grbovi/hajduk.png",
+        "position": "3",
+        "matchesPlayed": "36",
+        "goalDifference": "+28",
+        "points": "68",
+        "win": "21",
+        "draw": "5",
+        "lose": "10"
+    }, {
+        "club": "NK Osijek",
+        "badge": "../slike/grbovi/osijek.png",
+        "position": "4",
+        "matchesPlayed": "36",
+        "goalDifference": "+19",
+        "points": "57",
+        "win": "16",
+        "draw": "9",
+        "lose": "11"
+    }, {
+        "club": "NK Lokomotiva Zagreb",
+        "badge": "../slike/grbovi/lokomotiva.png",
+        "position": "5",
+        "matchesPlayed": "36",
+        "goalDifference": "+7",
+        "points": "51",
+        "win": "12",
+        "draw": "15",
+        "lose": "9"
+    }, {
+        "club": "NK Varaždin",
+        "badge": "../slike/grbovi/varazdin.png",
+        "position": "6",
+        "matchesPlayed": "36",
+        "goalDifference": "-8",
+        "points": "42",
+        "win": "10",
+        "draw": "12",
+        "lose": "14"
+    }, {
+        "club": "HNK Gorica",
+        "badge": "../slike/grbovi/gorica.png",
+        "position": "7",
+        "matchesPlayed": "36",
+        "goalDifference": "-15",
+        "points": "41",
+        "win": "11",
+        "draw": "8",
+        "lose": "17"
+    }, {
+        "club": "NK Istra 1961",
+        "badge": "../slike/grbovi/istra.png",
+        "position": "8",
+        "matchesPlayed": "36",
+        "goalDifference": "-18",
+        "points": "41",
+        "win": "10",
+        "draw": "11",
+        "lose": "15"
+    }, {
+        "club": "NK Slaven Belupo",
+        "badge": "../slike/grbovi/slaven.png",
+        "position": "9",
+        "matchesPlayed": "36",
+        "goalDifference": "-26",
+        "points": "33",
+        "win": "9",
+        "draw": "6",
+        "lose": "21"
+    }, {
+        "club": "NK Rudeš",
+        "badge": "../slike/grbovi/rudes.png",
+        "position": "10",
+        "matchesPlayed": "36",
+        "goalDifference": "-63",
+        "points": "9",
+        "win": "1",
+        "draw": "6",
+        "lose": "29"
+    }
+]

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<listaStrijelaca>
+    <strijelac>
+        <mjesto>1</mjesto>
+        <ime>Ramon Mierez</ime>
+        <slika>../slike/strijelci/mierez.jpg</slika>
+        <brojGolova>18</brojGolova>
+        <klub>../slike/grbovi/osijek.png</klub>
+    </strijelac>
+    <strijelac>
+        <mjesto>2</mjesto>
+        <ime>Fran Brodić</ime>
+        <slika>../slike/strijelci/brodic.jpg</slika>
+        <brojGolova>13</brojGolova>
+        <klub>../slike/grbovi/dinamo.png</klub>
+    </strijelac>
+    <strijelac>
+        <mjesto>3</mjesto>
+        <ime>Duje Čop</ime>
+        <slika>../slike/strijelci/cop.jpg</slika>
+        <brojGolova>12</brojGolova>
+        <klub>../slike/grbovi/lokomotiva.png</klub>
+    </strijelac>
+    <strijelac>
+        <mjesto>4</mjesto>
+        <ime>Bruno Petković</ime>
+        <slika>../slike/strijelci/petkovic.jpg</slika>
+        <brojGolova>11</brojGolova>
+        <klub>../slike/grbovi/dinamo.png</klub>
+    </strijelac>
+    <strijelac>
+        <mjesto>5</mjesto>
+        <ime>Niko Janković</ime>
+        <slika>../slike/strijelci/jankovic.jpg</slika>
+        <brojGolova>11</brojGolova>
+        <klub>../slike/grbovi/rijeka.png</klub>
+    </strijelac>
+
+    <asistent>
+        <mjesto>1</mjesto>
+        <ime>Toni Fruk</ime>
+        <slika>../slike/strijelci/fruk.jpg</slika>
+        <brojAsistencija>15</brojAsistencija>
+        <klub>../slike/grbovi/rijeka.png</klub>
+    </asistent>
+    <asistent>
+        <mjesto>2</mjesto>
+        <ime>Josip Brekalo</ime>
+        <slika>../slike/strijelci/brekalo.jpg</slika>
+        <brojAsistencija>8</brojAsistencija>
+        <klub>../slike/grbovi/hajduk.png</klub>
+    </asistent>
+    <asistent>
+        <mjesto>3</mjesto>
+        <ime>Ramon Mierez</ime>
+        <slika>../slike/strijelci/mierez.jpg</slika>
+        <brojAsistencija>7</brojAsistencija>
+        <klub>../slike/grbovi/osijek.png</klub>
+    </asistent>
+    <asistent>
+        <mjesto>4</mjesto>
+        <ime>Emir Sahiti</ime>
+        <slika>../slike/strijelci/sahiti.jpg</slika>
+        <brojAsistencija>7</brojAsistencija>
+        <klub>../slike/grbovi/hajduk.png</klub>
+    </asistent>
+    <asistent>
+        <mjesto>5</mjesto>
+        <ime>Tomislav Štrkalj</ime>
+        <slika>../slike/strijelci/strkalj.png</slika>
+        <brojAsistencija>7</brojAsistencija>
+        <klub>../slike/grbovi/slaven.png</klub>
+    </asistent>
+
+    <golman>
+        <mjesto>1</mjesto>
+        <ime>Nediljko Labrović</ime>
+        <slika>../slike/strijelci/labrovic.jpg</slika>
+        <cleanSheets>18</cleanSheets>
+        <klub>../slike/grbovi/rijeka.png</klub>
+    </golman>
+    <golman>
+        <mjesto>2</mjesto>
+        <ime>Ivan Lučić</ime>
+        <slika>../slike/strijelci/lucic.jpg</slika>
+        <cleanSheets>15</cleanSheets>
+        <klub>../slike/grbovi/hajduk.png</klub>
+    </golman>
+    <golman>
+        <mjesto>3</mjesto>
+        <ime>Ivan Nevistić</ime>
+        <slika>../slike/strijelci/nevistic.jpg</slika>
+        <cleanSheets>11</cleanSheets>
+        <klub>../slike/grbovi/dinamo.png</klub>
+    </golman>
+    <golman>
+        <mjesto>4</mjesto>
+        <ime>Nikola Čavlina</ime>
+        <slika>../slike/strijelci/cavlina.jpg</slika>
+        <cleanSheets>10</cleanSheets>
+        <klub>../slike/grbovi/lokomotiva.png</klub>
+    </golman>
+    <golman>
+        <mjesto>5</mjesto>
+        <ime>Ivan Banić</ime>
+        <slika>../slike/strijelci/banic.jpg</slika>
+        <cleanSheets>10</cleanSheets>
+        <klub>../slike/grbovi/gorica.png</klub>
+    </golman>
+
+    <igracDuel>
+        <mjesto>1</mjesto>
+        <ime>Lindon Selahi</ime>
+        <slika>../slike/strijelci/selahi.jpg</slika>
+        <osvojeniDueli>2.8</osvojeniDueli>
+        <klub>../slike/grbovi/rijeka.png</klub>
+    </igracDuel>
+    <igracDuel>
+        <mjesto>2</mjesto>
+        <ime>Ivan Lepinjica</ime>
+        <slika>../slike/strijelci/lepinjica.jpg</slika>
+        <osvojeniDueli>2.6</osvojeniDueli>
+        <klub>../slike/grbovi/slaven.png</klub>
+    </igracDuel>
+    <igracDuel>
+        <mjesto>3</mjesto>
+        <ime>Mauro Perković</ime>
+        <slika>../slike/strijelci/perkovic.jpg</slika>
+        <osvojeniDueli>2.4</osvojeniDueli>
+        <klub>../slike/grbovi/dinamo.png</klub>
+    </igracDuel>
+    <igracDuel>
+        <mjesto>4</mjesto>
+        <ime>Darko Nejašmić</ime>
+        <slika>../slike/strijelci/nejasmic.jpg</slika>
+        <osvojeniDueli>2.4</osvojeniDueli>
+        <klub>../slike/grbovi/osijek.png</klub>
+    </igracDuel>
+    <igracDuel>
+        <mjesto>5</mjesto>
+        <ime>Josip Mišić</ime>
+        <slika>../slike/strijelci/misic.jpg</slika>
+        <osvojeniDueli>2.1</osvojeniDueli>
+        <klub>../slike/grbovi/dinamo.png</klub>
+    </igracDuel>
+
+    <igracDodavanje>
+        <mjesto>1</mjesto>
+        <ime>Toni Fruk</ime>
+        <slika>../slike/strijelci/fruk.jpg</slika>
+        <kljucnaDodavanja>2.3</kljucnaDodavanja>
+        <klub>../slike/grbovi/rijeka.png</klub>
+    </igracDodavanje>
+    <igracDodavanje>
+        <mjesto>2</mjesto>
+        <ime>Martin Baturina</ime>
+        <slika>../slike/strijelci/baturina.jpg</slika>
+        <kljucnaDodavanja>2.3</kljucnaDodavanja>
+        <klub>../slike/grbovi/dinamo.png</klub>
+    </igracDodavanje>
+    <igracDodavanje>
+        <mjesto>3</mjesto>
+        <ime>Igor Postonjski</ime>
+        <slika>../slike/strijelci/postonjski.jpg</slika>
+        <kljucnaDodavanja>1.8</kljucnaDodavanja>
+        <klub>../slike/grbovi/varazdin.png</klub>
+    </igracDodavanje>
+    <igracDodavanje>
+        <mjesto>4</mjesto>
+        <ime>Petar Pušić</ime>
+        <slika>../slike/strijelci/pusic.jpg</slika>
+        <kljucnaDodavanja>1.8</kljucnaDodavanja>
+        <klub>../slike/grbovi/osijek.png</klub>
+    </igracDodavanje>
+    <igracDodavanje>
+        <mjesto>5</mjesto>
+        <ime>Bruno Petković</ime>
+        <slika>../slike/strijelci/petkovic.jpg</slika>
+        <kljucnaDodavanja>1.7</kljucnaDodavanja>
+        <klub>../slike/grbovi/dinamo.png</klub>
+    </igracDodavanje>
+</listaStrijelaca>

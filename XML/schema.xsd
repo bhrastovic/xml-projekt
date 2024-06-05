@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <!-- Define element for a football fixture -->
+    <xs:element name="fixture">
+        <xs:complexType>
+        <xs:sequence>
+
+            <!-- Fixture details -->
+            <xs:element name="date" type="xs:date"/>
+            <xs:element name="stadiumName" type="xs:string"/>
+            <xs:element name="spectators" type="xs:nonNegativeInteger"/>
+            <xs:element name="referee" type="xs:string"/>
+            
+            <!-- Teams played -->
+            <xs:element name="homeClub" type="xs:string"/>
+            <xs:element name="awayClub" type="xs:string"/>
+            
+            <!-- Match result -->
+            <xs:element name="result">
+            <xs:complexType>
+                <xs:sequence>
+                <xs:element name="homeScore" type="xs:nonNegativeInteger"/>
+                <xs:element name="awayScore" type="xs:nonNegativeInteger"/>
+                </xs:sequence>
+            </xs:complexType>
+            </xs:element>
+            
+            <!-- Starting eleven for both teams -->
+            <xs:element name="startingElevenHome" minOccurs="1" maxOccurs="1">
+            <xs:complexType>
+                <xs:sequence>
+                <xs:element name="player" minOccurs="11" maxOccurs="11" type="xs:string"/>
+                </xs:sequence>
+            </xs:complexType>
+            </xs:element>
+
+            <xs:element name="startingElevenAway" minOccurs="1" maxOccurs="1">
+            <xs:complexType>
+                <xs:sequence>
+                <xs:element name="player" minOccurs="11" maxOccurs="11" type="xs:string"/>
+                </xs:sequence>
+            </xs:complexType>
+            </xs:element>
+            
+            <!-- Coaches for both teams -->
+            <xs:element name="coaches">
+            <xs:complexType>
+                <xs:sequence>
+                <xs:element name="homeCoach" type="xs:string"/>
+                <xs:element name="awayCoach" type="xs:string"/>
+                </xs:sequence>
+            </xs:complexType>
+            </xs:element>
+
+        </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

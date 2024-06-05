@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300;400;700&display=swap');
+
+.nav-item {
+    padding-right: 5vw;
+    font-size: 1.5vw;
+    white-space:nowrap;
+}
+
+.navbar-nav {
+    padding-left: 5vw;
+}
+
+.sezona {
+    font-family: "Rowdies", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    white-space: nowrap;
+    font-size: clamp(1rem, 2vw, 3rem);
+}
+
+.circular-image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+@media (max-width: 991.98px) {
+    .sezona {
+        display: none;
+    }
+} 

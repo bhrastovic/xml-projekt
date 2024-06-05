@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fixture>
+    <date>2024-05-19</date>
+    <stadiumName>Opus Arena</stadiumName>
+    <spectators>10112</spectators>
+    <referee>Duje Strukan</referee>
+    <homeClub>NK Osijek</homeClub>
+    <awayClub>HNK Rijeka</awayClub>
+    <result>
+        <homeScore>2</homeScore>
+        <awayScore>0</awayScore>
+    </result>
+    <startingElevenHome>
+        <player>Franko Kolić</player>
+        <player>Enis Cokaj</player>
+        <player>Roko Jurišić</player>
+        <player>Petar Pušić</player>
+        <player>Slavko Bralić</player>
+        <player>Anton Matković</player>
+        <player>Darko Nejašmić</player>
+        <player>Nail Omerović</player>
+        <player>Ramon Mierez</player>
+        <player>Domagoj Bukvić</player>
+        <player>Marin Prekodravac</player>
+    </startingElevenHome>
+    <startingElevenAway>
+        <player>Nediljko Labrović</player>
+        <player>Momo Yansane</player>
+        <player>Stjepan Radeljić</player>
+        <player>Marijan Čabraja</player>
+        <player>Niko Janković</player>
+        <player>Dejan Petrovič</player>
+        <player>Emmanuel Banda</player>
+        <player>Emir Dilaver</player>
+        <player>Bruno Bogojević</player>
+        <player>Alen Grgić</player>
+        <player>Jorge Obregon</player>
+    </startingElevenAway>
+    <coaches>
+        <homeCoach>Zoran Zekić</homeCoach>
+        <awayCoach>Željko Sopić</awayCoach>
+    </coaches>
+</fixture>
